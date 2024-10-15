@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\bin\Debug\net8.0\numberguesser.exe
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\bin\Debug\net8.0\numberguesser.deps.json
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\bin\Debug\net8.0\numberguesser.runtimeconfig.json
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\bin\Debug\net8.0\numberguesser.dll
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\bin\Debug\net8.0\numberguesser.pdb
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\numberguesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\numberguesser.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\numberguesser.AssemblyInfo.cs
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\numberguesser.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\numberguesser.dll
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\refint\numberguesser.dll
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\numberguesser.pdb
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\numberguesser.genruntimeconfig.cache
+C:\Users\HP\Documents\front-end-CA\C#_App\CNETApplication\numberguesser\obj\Debug\net8.0\ref\numberguesser.dll
